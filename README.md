@@ -44,7 +44,7 @@ Include the ER diagram image (optional):
 
 1. *Clone the repository*:
    bash
-   git clone https://github.com/yourusername/InNEED-Database-Development.git
+   git clone https://github.com/prashantkr2805/InNEED-Database-Development.git
    
 
 2. *Create the Database*:
