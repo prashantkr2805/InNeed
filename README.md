@@ -27,7 +27,7 @@ Each table is structured with appropriate data types and relationships to ensure
 
 ### ER Diagram
 Include the ER diagram image (optional):
-[here](https://drive.google.com/file/d/1N7VChcDTE3Bk9tD6eV7uLgjIjUpjNB-1/view?usp=sharing).
+[here](https://drive.google.com/file/d/14sHyalUG6TUxlV6PMp-P6bE_qgwtlYvc/view?usp=sharing).
 
 ### SQL Features
 - *Stored Procedures*: Over 15 stored procedures for operations like course enrollment, payment verification, and profile updates.
@@ -50,7 +50,7 @@ Include the ER diagram image (optional):
 2. *Create the Database*:
    - Open MySQL Workbench or any other MySQL client.
    - Run the SQL script located in the /sql-scripts folder to set up the database schema:
-     [here](https://docs.google.com/document/d/1Yn_Vl_DnlwEwZ0mUWsEZAAhLHxsDNfIr/edit?usp=sharing&ouid=117613726400409974751&rtpof=true&sd=true).
+     [here](https://docs.google.com/document/d/1MIYFZOiselNxImSTtJ_te8trMzV7mDsS/edit?usp=sharing&ouid=114149228764520819787&rtpof=true&sd=true).
 
 3. *Stored Procedures*:
    - After setting up the schema, execute the stored procedures for operations like Sign_Up, BuyNow, and enrollstudent.
@@ -78,7 +78,7 @@ Include the ER diagram image (optional):
    
 
 ## Documentation
-For more details, refer to the [project report](https://drive.google.com/file/d/1QasXwffBrnm85-mFZjW6gidx9GCDBP7S/view?usp=drive_link).
+For more details, refer to the [project report](https://drive.google.com/file/d/1Wdq6Oaeo8gxYDzJAWpE4PXFjypuviqIa/view?usp=sharing).
 
 ## Technologies Used
 - *MySQL* for database management.
@@ -86,4 +86,4 @@ For more details, refer to the [project report](https://drive.google.com/file/d/
 - *MySQL Workbench* for database modeling and querying.
 
 ## Contact
-For any inquiries or collaboration, feel free to reach out to me via LinkedIn(https://www.linkedin.com/in/prashant-kumar-b525a3219/).
+For any inquiries or collaboration, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/prashant-kumar-b525a3219/).
