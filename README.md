@@ -1,8 +1,10 @@
-This repository contains the MySQL database implementation for *InNEED Online Academy*, an e-learning platform that serves learners across 8 branches in the UK. The database supports key functionalities like course enrollment, payment processing, role-based access control, and certificate issuance.
+#InNeeD Online Academy - Database Development
+
+This repository contains the MySQL database implementation for *InNeeD Online Academy*, an e-learning platform that serves learners across 8 branches in the UK. The database supports key functionalities like course enrollment, payment processing, role-based access control, and certificate issuance.
 
 ## Project Overview
 
-InNEED Online Academy is a platform providing flexible and accessible e-learning opportunities. This project involved the design and development of a MySQL database to manage users, courses, payments, and evaluations. The system supports multiple user roles such as students, employees, trainers, and the CEO, each with specific functionalities.
+InNeeD Online Academy is a platform providing flexible and accessible e-learning opportunities. This project involved the design and development of a MySQL database to manage users, courses, payments, and evaluations. The system supports multiple user roles such as students, employees, trainers, and the CEO, each with specific functionalities.
 
 ### Key Features
 - *Role-Based Access Control*: Secure access for customers, trainers, employees, branch managers, and the CEO.
