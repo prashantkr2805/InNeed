@@ -1,4 +1,4 @@
-#InNeeD Online Academy - Database Development
+# InNeeD Online Academy - Database Development
 
 This repository contains the MySQL database implementation for *InNeeD Online Academy*, an e-learning platform that serves learners across 8 branches in the UK. The database supports key functionalities like course enrollment, payment processing, role-based access control, and certificate issuance.
 
